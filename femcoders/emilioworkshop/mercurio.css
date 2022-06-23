@@ -1,0 +1,32 @@
+h1{
+    color:aqua;
+    text-align: center;
+}
+nav {
+    background-color: red;
+    display:block;
+    margin:auto;
+    max-width: 50%;
+}
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+nav li {
+    flex-direction: row;
+    list-style-type: none;
+}
+.contenedor{
+    display: flex;
+    background-color: brown;
+    width: 350px;
+    height: 350px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.caja {
+    background-color: green;
+    border: 3px solid lightyellow;
+    width: 100px;
+    height: 100px;
+}

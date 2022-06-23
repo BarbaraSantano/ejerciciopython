@@ -1,0 +1,98 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2022/06/18/04/32/poppies-7269126_960_720.jpg');
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+nav ul {
+    color: gray;
+}
+nav li {
+    display: inline-block;
+    padding: 10px;
+}
+nav li:hover {
+    background-color: purple;
+    color: blue;
+}
+section {
+    background-color: greenyellow;
+}
+.contenedor {
+    background-image: url('https://placeimg.com/300/300/any');
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+.caja1 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.caja2 {
+    background-color: #47e6e7;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    position: absolute;
+}
+.caja3 {
+    background-color: black;
+    width:100px;
+    height: 100px;
+    margin-left: 200px;
+    position: absolute;
+} 
+.caja4 {
+    background-color: blue;
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 100px;
+}
+.caja5 {
+    background-color:white;
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.caja6 {
+    background-color: tomato;
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.caja7 {
+    background-color: yellow;
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 200px; 
+}
+.caja8 {
+    background-color: khaki;
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 200px; 
+    margin-left: 100px;
+}
+.caja9 {
+    background-color: rgb(184, 55, 166);
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 200px; 
+    margin-left: 200px;
+}
